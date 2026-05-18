@@ -6,6 +6,23 @@
 
 ## Files in This Folder
 
+### 4. [CSM_CommonIssues_And_Pitfalls.md](CSM_CommonIssues_And_Pitfalls.md)
+**Real-world problems from community + consulting experience.** 10 categories of issues with root causes, symptoms, and fixes:
+- Data model confusion (Contact vs Consumer, wrong portal, ITSM table mistakes)
+- Entitlement & contract problems (timing, SLA misconfiguration)
+- Case routing & AWA failures
+- Integration challenges (load, duplicates, no single source of truth)
+- Portal & self-service adoption failures
+- Change management & agent resistance
+- Over-customization and scope creep
+- Data quality issues
+- AI/automation pitfalls
+- Reporting gaps
+
+Includes a **Quick Troubleshooting Reference** table and **Top 10 Things That Go Wrong** summary. Sourced from actual ServiceNow Community forum threads and consulting guides.
+
+---
+
 ### 1. [CSM_Basics.md](CSM_Basics.md)
 **Start here.** Comprehensive fundamentals guide covering:
 - What CSM is and its business value
