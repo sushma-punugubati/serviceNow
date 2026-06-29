@@ -4,11 +4,11 @@
 
 | File | What It Covers |
 |------|----------------|
-| `FSO_Basics.md` | Core concepts, key tables, work order lifecycle, scheduling, mobile app |
-| `FSO_InterviewQuestions.md` | 20+ Q&As across conceptual, configuration, and scenario topics |
-| `FSO_CustomerSuccessStories.md` | Real-world implementation stories with metrics and outcomes |
-| `FSO_CommonIssues_And_Pitfalls.md` | Common pitfalls, root causes, and fixes |
-| `FSO_ProjectExperience_Challenges.md` | Implementation challenges from real project experience |
+| `FSO_Basics.md` | Core concepts, FSO verticals (Banking/Insurance/Wealth), data model, key tables, workspace, AI, integrations, regulations |
+| `FSO_InterviewQuestions.md` | 20+ Q&As across conceptual, technical, and scenario topics + study checklist |
+| `FSO_CustomerSuccessStories.md` | 6 real-world stories (retail bank, card disputes, insurance, wealth, credit union, GDPR) with metrics |
+| `FSO_CommonIssues_And_Pitfalls.md` | 10 common pitfalls with root causes, fixes, and quick troubleshooting reference |
+| `FSO_ProjectExperience_Challenges.md` | Real project lessons: data modeling, workflow design, integration, change management, go-live |
 
 ---
 
