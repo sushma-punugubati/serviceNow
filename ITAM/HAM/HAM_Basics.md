@@ -6,7 +6,7 @@
 
 ## 1. What is Hardware Asset Management (HAM)?
 
-**Hardware Asset Management (HAM)** is the ServiceNow module for tracking, managing, and optimizing physical IT assets — laptops, desktops, servers, mobile devices, printers, and peripherals — across their entire lifecycle from procurement through disposal.
+**Hardware Asset Management (HAM)** is the ServiceNow module for tracking, and managing physical IT assets — laptops, desktops, servers, mobile devices, printers, and peripherals — across their entire lifecycle from procurement through disposal.
 
 > **Core value proposition:** HAM replaces spreadsheets and siloed tracking systems with a single, automated source of truth for every physical asset the organization owns — who has it, where it is, what it costs, whether it's still under warranty, and when it needs to be replaced.
 
